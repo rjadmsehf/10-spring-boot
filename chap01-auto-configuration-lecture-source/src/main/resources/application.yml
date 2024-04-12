@@ -1,0 +1,6 @@
+#test.value=dasdasds 필기 이런 방식이 었는데  yml 파일은 프로퍼티 파일보다 우선권이 낮다
+test:
+  greeting: hi!!!!!
+  array: 안녕, 반가워
+  value: hell world
+  username: 전준규
